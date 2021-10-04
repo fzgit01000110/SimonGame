@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  background-color: #CEE5D0;
+}
+
+.title{
+  font-family: 'Press Start 2P', cursive;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  color: #FF7878;
+}
+
+img{
+  filter: drop-shadow(5px 10px 5px #333);
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+}
+
+.game-over {
+  background-color: #E0C097;
+  opacity: 0.8;
+}
+
+footer {
+  font-family: 'Press Start 2P', cursive;
+}
