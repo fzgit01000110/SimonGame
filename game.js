@@ -6,7 +6,7 @@ let level = 1;
 let isStarted = false;
 
 //Event Listener
-$(document).keydown(function (e) {
+$(document).click(function (e) {
     if (isStarted === false) {
         nextSequence();
         isStarted = true;
